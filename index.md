@@ -169,7 +169,7 @@
   <section class="page-section bg-dark text-white">
     <div class="container text-center">
       <h2 class="mb-4">Put Agility in Agriculture</h2>
-      <a class="btn btn-light btn-xl" href="https://wildtree.xyz">Read Manual</a>
+      <a class="btn btn-light btn-xl" href="index.html">Read Manual</a>
     </div>
   </section>
 
